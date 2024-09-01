@@ -1,1 +1,1 @@
-HTML & CSS project
+HTML5 & CSS3 project
